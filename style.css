@@ -4,22 +4,22 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.aaa {
+.headling {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.aaa img {
+.headling img {
   width: 100%;
 }
-.aaa .more-inf {
+.headling .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
   
-  .aaa { 
+  .headling { 
     text-align: center;
   }
   
